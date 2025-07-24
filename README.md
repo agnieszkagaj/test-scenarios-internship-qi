@@ -14,7 +14,7 @@ Each test scenario includes the following elements:
 * Comments (to be completed during test execution)
 * Status (to be updated during test execution)
 
-# Scope of Contribution
+# My Contribution
 
 I was responsible for the **"Quizzes"** (within the "Courses" module), which allows users to customize courses by creating tests/quizzes, adding graphics and attachments.
 It also enables users to duplicate existing tests/quizzes, modify their components (e.g. rearrange answers within a test), track student progress (answers made, passed/failed tests), and delete tests/quizzes entirely.
